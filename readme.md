@@ -18,6 +18,7 @@ If you do not have "whois" installed, the script tries to 'sudo apt-get install 
 ```sh
 git clone http://github.com/hocza/mdac
 cd mdac
+chmod +x domain.sh
 ./domain.sh
 ```
 
