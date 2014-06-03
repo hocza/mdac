@@ -68,6 +68,8 @@ You can use custom list. For example If you're looking for two char domains inst
 
 Or you can use any dictionary, separated with space or enter.
 
+**Available domains will be written to *domain.free* file during the process!**
+
 To-do
 -----------
 
